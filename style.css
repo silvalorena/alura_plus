@@ -16,3 +16,9 @@
     background-repeat: no-repeat;
     height: 100vh;
     }
+
+    .principal-botao{ 
+     background-color: var(--botao-azul);
+color:var(--branco-principal);
+border-radius: 5px;
+    }
