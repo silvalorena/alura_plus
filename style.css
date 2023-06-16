@@ -71,6 +71,7 @@
         display: grid;
         grid-template-columns: 50% 50%;
         align-items: center;
+        margin: 0 100px;
     }
 
     .secundaria-imagem {
