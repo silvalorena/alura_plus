@@ -90,7 +90,17 @@ display: inline-block;
 margin-top:16px;
 
  }
-
-
-
-
+.dispositivos-lista{
+display: flex;
+list-style-type:nome;
+margin:80px 0
+}
+.dispositivos{
+text-align:center;
+}
+.dispositivos-titulo{
+font-size: 48px;
+}
+.list-item{
+font-size: 32px;
+}
